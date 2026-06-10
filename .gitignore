@@ -219,3 +219,5 @@ __marimo__/
 
 # raw data files
 data/raw/
+# uv lockfile
+uv.lock
