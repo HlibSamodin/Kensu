@@ -16,6 +16,7 @@ def fake_answer(question):
     return {"response": f"This is a test response about {words[:3]}", "logprobs": probs}
 
 
+# running each question 5 times and storing all their input
 def collect(questions_file, output_file, runs=5):
     data = load_questions(questions_file)
 
