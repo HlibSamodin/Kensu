@@ -221,3 +221,6 @@ __marimo__/
 data/raw/
 # uv lockfile
 uv.lock
+
+# processed features
+data/processed/
