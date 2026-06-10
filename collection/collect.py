@@ -19,25 +19,16 @@ def fake_answer(question):
 # running each question 5 times and storing all their input
 def collect(questions_file, output_file, runs=5):
     data = load_questions(questions_file)
-
-    out = []
-
-    for item in data:
-        answers = []
-        for i in range(runs):
-            answers.append(fake_answer(item.get("question")))
-            time.sleep(0.01)
-
-        out.append(
-            {
+    with open(output_file, "w", encoding="utf-8") as f:
+        for item in data:
+            answers = []
+            for i in range(runs):
+                answers.append(fake_answer(item.get("question")))
+                time.sleep(0.01)
+            row = {
                 "question": item.get("question"),
                 "answer": item.get("answer"),
                 "runs": answers,
             }
-        )
-
-    with open(output_file, "w", encoding="utf-8") as f:
-        for row in out:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
-
-    print(f"done: {len(out)} questions -> {output_file}")
+    print(f"done: {len(data)} questions -> {output_file}")
