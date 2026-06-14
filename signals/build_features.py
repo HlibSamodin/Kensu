@@ -10,6 +10,7 @@ def build_features(row):
     answer = row.get("answer")
 
     features = {}
+    features["question"] = row.get("question", "")
     features.update(consistency_features(runs))
     features.update(token_prob_features(runs))
     features.update(entropy_features(runs))
