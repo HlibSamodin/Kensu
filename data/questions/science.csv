@@ -1,21 +1,180 @@
 question,answer
-"What is the chemical symbol for gold?",Au
-"How many chromosomes do humans have?",46
-"What is the speed of light in metres per second?",299792458
-"What planet is closest to the Sun?",Mercury
-"What is the atomic number of carbon?",6
-"What gas do plants absorb during photosynthesis?",carbon dioxide
-"What is the hardest natural substance on Earth?",diamond
-"How many bones are in the adult human body?",206
-"What is the chemical formula for water?",H2O
-"Which planet has the most moons?",Saturn
-"What is the powerhouse of the cell?",mitochondria
-"What force keeps planets in orbit around the Sun?",gravity
-"What is the most abundant gas in Earth's atmosphere?",nitrogen
-"What particle has a negative charge?",electron
-"What is the half-life of Carbon-14 in years?",5730
-"Which element has the symbol Fe?",iron
-"What is the boiling point of water in Celsius?",100
-"What theory describes the origin of the universe?",Big Bang
-"What organ produces insulin?",pancreas
-"What is the chemical symbol for sodium?",Na
+What is the atomic number of carbon?,6
+What is the chemical symbol for gold?,Au
+What is the speed of light in a vacuum in metres per second?,299792458
+What planet is closest to the Sun?,Mercury
+What is the most abundant gas in Earth's atmosphere?,Nitrogen
+What is the powerhouse of the cell?,Mitochondria
+What is the chemical formula for water?,H2O
+How many chromosomes do humans have?,46
+What is the hardest natural substance on Earth?,Diamond
+What is the atomic number of hydrogen?,1
+What is the chemical symbol for iron?,Fe
+What is the boiling point of water in Celsius?,100
+What is the freezing point of water in Celsius?,0
+What is the chemical formula for table salt?,NaCl
+What is the most abundant element in the universe?,Hydrogen
+What is the chemical symbol for silver?,Ag
+What is the atomic number of oxygen?,8
+What is the chemical formula for carbon dioxide?,CO2
+What is the most abundant element in the Earth's crust?,Oxygen
+What is the chemical symbol for potassium?,K
+What is the speed of sound in air at sea level in metres per second?,343
+What is the atomic number of gold?,79
+What is the chemical symbol for sodium?,Na
+What is the atomic number of uranium?,92
+What is the chemical symbol for lead?,Pb
+What is the atomic number of helium?,2
+What is the chemical symbol for copper?,Cu
+What is the atomic number of nitrogen?,7
+What is the chemical formula for ammonia?,NH3
+What is the chemical symbol for mercury?,Hg
+What is the atomic number of carbon-14 used in radiocarbon dating?,6
+What is the chemical formula for methane?,CH4
+What is the atomic number of iron?,26
+What is the chemical symbol for tin?,Sn
+What is the atomic number of calcium?,20
+What is the chemical formula for glucose?,C6H12O6
+What is the chemical symbol for tungsten?,W
+What is the atomic number of chlorine?,17
+What is the chemical formula for sulfuric acid?,H2SO4
+What is the chemical symbol for platinum?,Pt
+What is the atomic number of phosphorus?,15
+What is the chemical formula for hydrogen peroxide?,H2O2
+What is the chemical symbol for chromium?,Cr
+What is the atomic number of zinc?,30
+What is the chemical formula for nitric acid?,HNO3
+What is the chemical symbol for manganese?,Mn
+What is the atomic number of silver?,47
+What is the chemical formula for ethanol?,C2H5OH
+What is the chemical symbol for cobalt?,Co
+What is the atomic number of tin?,50
+Who discovered penicillin?,Alexander Fleming
+In what year was penicillin discovered?,1928
+Who developed the theory of general relativity?,Albert Einstein
+In what year did Einstein publish his theory of general relativity?,1915
+Who discovered the electron?,J.J. Thomson
+In what year was the electron discovered?,1897
+Who discovered the neutron?,James Chadwick
+In what year was the neutron discovered?,1932
+Who developed the periodic table?,Dmitri Mendeleev
+In what year did Mendeleev publish the first periodic table?,1869
+Who discovered radioactivity?,Henri Becquerel
+In what year was radioactivity discovered?,1896
+Who first described the heliocentric model of the solar system?,Nicolaus Copernicus
+In what year did Copernicus publish his heliocentric model?,1543
+Who discovered the structure of DNA?,Francis Crick and James Watson
+In what year was the structure of DNA discovered?,1953
+Who invented the telescope?,Hans Lippershey
+Who developed the first vaccine?,Edward Jenner
+In what year did Jenner develop the smallpox vaccine?,1796
+Who discovered X-rays?,Wilhelm Rontgen
+In what year were X-rays discovered?,1895
+Who formulated the laws of motion?,Isaac Newton
+In what year did Newton publish Principia Mathematica?,1687
+Who discovered the proton?,Ernest Rutherford
+Who proposed the theory of natural selection?,Charles Darwin
+In what year did Darwin publish On the Origin of Species?,1859
+Who discovered the circulation of blood?,William Harvey
+In what year did Harvey publish his discovery of blood circulation?,1628
+Who invented the light bulb?,Thomas Edison
+In what year did Edison patent the light bulb?,1879
+Who discovered oxygen?,Carl Wilhelm Scheele
+Who first synthesised aspirin?,Felix Hoffmann
+In what year was aspirin first synthesised?,1897
+Who developed the polio vaccine?,Jonas Salk
+In what year was the Salk polio vaccine introduced?,1955
+Who discovered the law of gravity?,Isaac Newton
+Who invented the steam engine?,James Watt
+In what year did Watt patent his steam engine?,1769
+Who discovered Pluto?,Clyde Tombaugh
+In what year was Pluto discovered?,1930
+Who invented the World Wide Web?,Tim Berners-Lee
+In what year was the World Wide Web invented?,1989
+Who discovered Neptune?,Johann Gottfried Galle
+In what year was Neptune discovered?,1846
+Who invented the transistor?,John Bardeen
+In what year was the transistor invented?,1947
+Who developed the rabies vaccine?,Louis Pasteur
+In what year did Pasteur develop the rabies vaccine?,1885
+Who discovered the law of universal gravitation?,Isaac Newton
+Who invented the printing press?,Johannes Gutenberg
+In what year did Gutenberg introduce the printing press to Europe?,1440
+What is the half life of carbon-14 in years?,5730
+What is the pH of pure water?,7
+How many bones are in the adult human body?,206
+How many elements are in the periodic table?,118
+What is the most common blood type in humans?,O positive
+How many chambers does the human heart have?,4
+What is the largest organ in the human body?,skin
+What is the smallest planet in the solar system?,Mercury
+What is the largest planet in the solar system?,Jupiter
+How many moons does Mars have?,2
+How many moons does Jupiter have?,95
+What is the distance from the Earth to the Sun in kilometres?,149600000
+How long does light from the Sun take to reach Earth in minutes?,8
+What is the melting point of iron in Celsius?,1538
+What is the boiling point of nitrogen in Celsius?,-196
+What is the density of water in kilograms per cubic metre?,1000
+What is the gravitational acceleration on Earth in metres per second squared?,9.8
+How many neutrons does carbon-12 have?,6
+What is the most electronegative element?,Fluorine
+What is the noble gas in period 2 of the periodic table?,Neon
+What is the chemical name for laughing gas?,Nitrous oxide
+What is the lightest metal on the periodic table?,Lithium
+What is the most radioactive naturally occurring element?,Polonium
+What is the chemical formula for ozone?,O3
+What is the atomic mass of carbon in atomic mass units?,12
+What organelle is responsible for photosynthesis?,Chloroplast
+What is the genetic material found in most living organisms?,DNA
+What is the process by which plants make food using sunlight?,Photosynthesis
+What type of bond holds water molecules together?,Hydrogen bond
+What is the term for the number of protons in an atom?,Atomic number
+What is the SI unit of electric current?,Ampere
+What is the SI unit of force?,Newton
+What is the SI unit of pressure?,Pascal
+What is the SI unit of energy?,Joule
+What is the SI unit of power?,Watt
+What is the SI unit of frequency?,Hertz
+What is the SI unit of electric charge?,Coulomb
+What is the SI unit of magnetic flux density?,Tesla
+What is the SI unit of luminous intensity?,Candela
+What is the SI unit of amount of substance?,Mole
+What type of radiation has the highest penetrating power?,Gamma
+What is the term for an atom that has lost or gained electrons?,Ion
+What is the process of a solid turning directly into a gas called?,Sublimation
+What is the term for the minimum energy needed to start a chemical reaction?,Activation energy
+What is the most abundant protein in the human body?,Collagen
+What is the term for the splitting of an atomic nucleus?,Nuclear fission
+What is the term for the joining of atomic nuclei?,Nuclear fusion
+What is the part of the brain responsible for balance and coordination?,Cerebellum
+What is the longest bone in the human body?,Femur
+What is the smallest bone in the human body?,Stapes
+What is the term for white blood cells?,Leukocytes
+What is the chemical name for vitamin C?,Ascorbic acid
+What is the term for the study of fungi?,Mycology
+What is the term for the study of insects?,Entomology
+What is the term for the study of birds?,Ornithology
+What is the term for the study of earthquakes?,Seismology
+What is the largest known prime number type used in cryptography?,Mersenne prime
+What is the name of the protein that carries oxygen in red blood cells?,Haemoglobin
+What is the chemical symbol for the element with atomic number 79?,Au
+What type of cell division produces gametes?,Meiosis
+What is the term for the region around an atom where electrons are likely to be found?,Orbital
+What is the process by which DNA makes a copy of itself?,Replication
+What is the name of the force that holds the nucleus together?,Strong nuclear force
+What is the term for a substance that speeds up a chemical reaction without being consumed?,Catalyst
+What is the name of the scale used to measure the acidity of a solution?,pH scale
+What is the term for the outermost layer of the Earth?,Crust
+What is the name of the layer of the atmosphere that contains the ozone layer?,Stratosphere
+What is the term for the bending of light as it passes from one medium to another?,Refraction
+What is the name of the scientist who first proposed that the universe began with a big bang?,Georges Lemaitre
+What is the term for the distance light travels in one year?,Light year
+What is the name of the protein responsible for muscle contraction?,Myosin
+What is the term for a molecule that contains both acidic and basic groups?,Amphoteric
+What is the name of the enzyme that breaks down hydrogen peroxide in cells?,Catalase
+What is the term for the movement of water across a semipermeable membrane?,Osmosis
+What is the name of the scientist who discovered that the Earth orbits the Sun?,Nicolaus Copernicus
+What is the term for the process by which organisms produce offspring?,Reproduction
+What is the name of the scale used to measure earthquake magnitude?,Richter scale
+What is the term for the outermost electron shell of an atom?,Valence shell

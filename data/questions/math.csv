@@ -1,21 +1,181 @@
 question,answer
-"What is 17 multiplied by 13?",221
-"What is the square root of 144?",12
-"What is 15 percent of 200?",30
-"What is the value of pi to two decimal places?",3.14
-"What is 2 to the power of 10?",1024
-"What is the sum of angles in a triangle in degrees?",180
-"What is the derivative of x squared?",2x
-"What is 7 factorial?",5040
-"What is the square root of 256?",16
-"What is 999 multiplied by 999?",998001
-"How many sides does a hexagon have?",6
-"What is the area of a circle with radius 5? Give the answer in terms of pi.",25pi
-"What is the smallest prime number?",2
-"What is log base 10 of 1000?",3
-"What is 13 squared?",169
-"What is the sum of the first 10 natural numbers?",55
-"What is 48 divided by 6?",8
-"What is the hypotenuse of a right triangle with sides 3 and 4?",5
-"What is 2 to the power of 8?",256
-"What is the cube root of 27?",3
+What is 17 multiplied by 13?,221
+What is the square root of 144?,12
+What is 15 percent of 200?,30
+What is the value of pi to two decimal places?,3.14
+What is 2 to the power of 10?,1024
+What is the sum of angles in a triangle in degrees?,180
+What is the derivative of x squared?,2x
+What is 7 factorial?,5040
+What is the square root of 256?,16
+What is 999 multiplied by 999?,998001
+How many sides does a hexagon have?,6
+What is the area of a circle with radius 5? Give the answer in terms of pi.,25pi
+What is the smallest prime number?,2
+What is log base 10 of 1000?,3
+What is 13 squared?,169
+What is the sum of the first 10 natural numbers?,55
+What is 48 divided by 6?,8
+What is the hypotenuse of a right triangle with sides 3 and 4?,5
+What is 2 to the power of 8?,256
+What is the cube root of 27?,3
+What is 15 squared?,225
+What is the value of pi to 5 decimal places?,3.14159
+What is the sum of angles in a quadrilateral in degrees?,360
+What is 12 factorial?,479001600
+What is the greatest common divisor of 48 and 18?,6
+What is the least common multiple of 12 and 18?,36
+What is 7 to the power of 4?,2401
+What is 23 multiplied by 17?,391
+What is 999 divided by 27?,37
+What is the sum of the first 100 natural numbers?,5050
+What is the cube root of 216?,6
+What is 19 multiplied by 21?,399
+What is the square root of 625?,25
+What is 11 to the power of 3?,1331
+What is 144 divided by 12?,12
+What is the value of e to 4 decimal places?,2.7183
+What is 16 percent of 350?,56
+What is the hypotenuse of a right triangle with legs 3 and 4?,5
+What is the hypotenuse of a right triangle with legs 5 and 12?,13
+What is the area of a circle with radius 5 in terms of pi?,25pi
+What is the circumference of a circle with radius 7 in terms of pi?,14pi
+What is the area of a triangle with base 10 and height 6?,30
+What is the volume of a cube with side length 4?,64
+What is the surface area of a cube with side length 3?,54
+What is the volume of a sphere with radius 3 in terms of pi?,36pi
+What is the derivative of x cubed?,3x squared
+What is the integral of 2x?,x squared
+What is the derivative of sin x?,cos x
+What is the derivative of cos x?,negative sin x
+What is the derivative of e to the x?,e to the x
+What is the derivative of ln x?,1 over x
+What is log base 2 of 64?,6
+What is log base 10 of 1?,0
+What is the value of sin 90 degrees?,1
+What is the value of cos 0 degrees?,1
+What is the value of tan 45 degrees?,1
+What is the value of sin 30 degrees?,0.5
+What is the value of cos 60 degrees?,0.5
+What is the value of sin 0 degrees?,0
+How many degrees are in a full circle?,360
+How many radians are in a full circle?,2pi
+What is pi divided by 2 in degrees?,90
+How many sides does a heptagon have?,7
+How many sides does an octagon have?,8
+How many sides does a decagon have?,10
+How many sides does a dodecagon have?,12
+What is the sum of interior angles of a hexagon in degrees?,720
+What is the sum of interior angles of a pentagon in degrees?,540
+What is the sum of interior angles of an octagon in degrees?,1080
+What is the nth term formula for the sum of an arithmetic series?,n over 2 times first plus last
+What is the formula for the area of a trapezium?,half times sum of parallel sides times height
+What is Pythagoras theorem?,a squared plus b squared equals c squared
+What is the quadratic formula?,negative b plus or minus root b squared minus 4ac all over 2a
+What is the formula for compound interest?,P times 1 plus r over n all to the power nt
+What is the determinant of a 2x2 matrix with entries a b c d?,ad minus bc
+What is the formula for the nth term of a geometric sequence?,a times r to the power n minus 1
+What is the formula for the sum of a geometric series?,a times 1 minus r to the n all over 1 minus r
+What is Euler's identity?,e to the i pi plus 1 equals 0
+What is the formula for the distance between two points?,square root of x2 minus x1 squared plus y2 minus y1 squared
+What is the formula for the midpoint of two points?,x1 plus x2 over 2 and y1 plus y2 over 2
+What is the formula for the gradient of a line?,y2 minus y1 over x2 minus x1
+What is the binomial theorem expansion of 1 plus x to the power n for small x?,1 plus nx
+What is the formula for permutations of n things taken r at a time?,n factorial over n minus r factorial
+What is the formula for combinations of n things taken r at a time?,n factorial over r factorial times n minus r factorial
+What is the probability of rolling a 6 on a fair die?,one sixth
+What is the probability of flipping heads on a fair coin?,one half
+What is the expected value of a fair six sided die?,3.5
+What is the variance of a fair six sided die?,2.917
+What is the standard deviation of a dataset 2 4 4 4 5 5 7 9?,2
+What is the mean of 3 7 7 19?,9
+What is the median of 3 7 9 15 21?,9
+What is the mode of 1 2 2 3 3 3 4?,3
+What is the range of 4 8 15 16 23 42?,38
+What is 8 factorial divided by 6 factorial?,56
+What is the sum of the first 5 prime numbers?,28
+What is the 10th Fibonacci number?,55
+What is the 7th Fibonacci number?,13
+Is 97 a prime number?,yes
+Is 91 a prime number?,no
+What is the prime factorisation of 60?,2 squared times 3 times 5
+What is the prime factorisation of 84?,2 squared times 3 times 7
+What is the greatest common divisor of 56 and 98?,14
+What is the least common multiple of 8 and 14?,56
+How many prime numbers are there below 20?,8
+What is 17 squared?,289
+What is the square root of 1764?,42
+What is 2 to the power of 15?,32768
+What is 3 to the power of 7?,2187
+What is 5 to the power of 6?,15625
+What is 4 to the power of 5?,1024
+What is 6 to the power of 4?,1296
+What is 9 to the power of 3?,729
+What is 8 to the power of 4?,4096
+What is the square root of 2 to 4 decimal places?,1.4142
+What is the square root of 3 to 4 decimal places?,1.7321
+What is the cube root of 512?,8
+What is the cube root of 1000?,10
+What is 345 multiplied by 67?,23115
+What is 1024 divided by 32?,32
+What is 729 divided by 27?,27
+What is 15 percent of 480?,72
+What is 35 percent of 260?,91
+What is 8 percent of 1250?,100
+What is the simple interest on 1000 at 5 percent for 3 years?,150
+How many diagonals does a hexagon have?,9
+How many diagonals does a pentagon have?,5
+How many diagonals does an octagon have?,20
+What is the exterior angle of a regular hexagon in degrees?,60
+What is the exterior angle of a regular pentagon in degrees?,72
+What is the interior angle of a regular octagon in degrees?,135
+What is the interior angle of a regular hexagon in degrees?,120
+What is the interior angle of a regular pentagon in degrees?,108
+What is the area of an equilateral triangle with side 6?,9 root 3
+What is the perimeter of a regular hexagon with side 5?,30
+What is the volume of a cylinder with radius 3 and height 5 in terms of pi?,45pi
+What is the surface area of a sphere with radius 4 in terms of pi?,64pi
+What is the volume of a cone with radius 3 and height 4 in terms of pi?,12pi
+What is the lateral surface area of a cone with radius 3 and slant height 5 in terms of pi?,15pi
+What is the formula for the area of a sector?,half r squared theta
+What is the arc length formula?,r times theta
+What is the dot product of vectors 1 2 3 and 4 5 6?,32
+What is the magnitude of vector 3 4?,5
+What is the magnitude of vector 1 2 2?,3
+What is the cross product magnitude of perpendicular vectors of magnitude 3 and 4?,12
+What is the formula for Bayes theorem?,P of A given B equals P of B given A times P of A over P of B
+What is the sum of probabilities of all outcomes in a sample space?,1
+What is the formula for the normal distribution mean?,mu
+What is the complement of probability p?,1 minus p
+What is De Morgans first law?,not A or B equals not A and not B
+What is the number of ways to arrange 5 distinct objects?,120
+What is the number of ways to choose 3 items from 10?,120
+What is the number of ways to arrange the letters in the word MATH?,24
+What is the sum of a geometric series with first term 1 ratio half and 4 terms?,1.875
+What is the limit of sin x over x as x approaches 0?,1
+What is the limit of 1 plus 1 over n to the power n as n approaches infinity?,e
+What is the second derivative of x to the power 4?,12x squared
+What is the integral of cos x?,sin x
+What is the integral of 1 over x?,ln x
+What is the integral of e to the x?,e to the x
+What is the trapezium rule used for?,approximating definite integrals
+What is the chain rule used for?,differentiating composite functions
+What is the product rule used for?,differentiating products of functions
+What is the quotient rule used for?,differentiating quotients of functions
+What is Fermats last theorem?,no three positive integers a b c satisfy a to the n plus b to the n equals c to the n for n greater than 2
+What is Goldbach's conjecture?,every even integer greater than 2 is the sum of two primes
+What is the Riemann hypothesis about?,the nontrivial zeros of the Riemann zeta function all have real part one half
+What is Euclids theorem about?,there are infinitely many prime numbers
+What is the four colour theorem?,any map can be coloured with at most four colours so no adjacent regions share a colour
+What is Cantors theorem about?,the power set of any set has strictly greater cardinality than the set itself
+What is Godels incompleteness theorem?,any consistent formal system powerful enough to describe arithmetic contains true statements that cannot be proved within the system
+What is the Collatz conjecture?,any positive integer will eventually reach 1 if you repeatedly apply the rule of halving even numbers and tripling odd numbers and adding 1
+What is a Mersenne prime?,a prime number of the form 2 to the power p minus 1
+What is a perfect number?,a number equal to the sum of its proper divisors
+What is the first perfect number?,6
+What is the second perfect number?,28
+What is the sum of divisors of 12?,28
+What is Wilsons theorem?,p is prime if and only if p divides p minus 1 factorial plus 1
+What is the Euler totient of 12?,4
+What is the Euler totient of 10?,4
+What is the number of integers less than 30 coprime to 30?,8
