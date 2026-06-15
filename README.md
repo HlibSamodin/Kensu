@@ -14,4 +14,4 @@ A Random Forest classifier trained on these signals outputs a single score: how 
 
 ## Status
 
-Data pipeline complete. Question banks built across five domains. Collection, labelling, signal extraction, and feature building all working with dummy data. Waiting on OpenAI API key in September to run against real GPT responses. Classifier next.
+Data pipeline is complete. I built the question banks across five domains +- 950 questions total. Collection script written with real OpenAI API call ready but it is still waiting on API key in September. Signal extraction, labelling, and feature building all working end to end with dummy data. Classifier next.
