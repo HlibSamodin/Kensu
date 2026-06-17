@@ -15,6 +15,7 @@ FEATURE_COLS = [
     "prob_mean_variance",
     "entropy_mean",
     "entropy_max",
+    "prob_trajectory",
 ]
 
 

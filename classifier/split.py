@@ -23,7 +23,7 @@ def split(features_path, splits_dir="data/splits", test_size=0.2):
     print(f"train: {len(train)} rows ({train['label'].mean():.2%} hallucinated)")
     print(f"test:  {len(test)} rows ({test['label'].mean():.2%} hallucinated)")
     print(
-        f"test set saved to {splits_dir}/test.csv — do not open until final evaluation"
+        f"test set saved to {splits_dir}/test.csv ,  do not open until final evaluation"
     )
 
 
