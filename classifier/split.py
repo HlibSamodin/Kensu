@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 def split(features_path, splits_dir="data/splits", test_size=0.2):
     df = pd.read_csv(features_path)
 
-    # stratify by label so class balance is preserved in both splits
+    # stratify by label so class balance is saved basically in both splits we make if in simpler words
     train, test = train_test_split(
         df,
         test_size=test_size,
