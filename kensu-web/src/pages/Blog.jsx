@@ -4,15 +4,15 @@ import { posts } from '../data/posts'
 
 function Blog() {
   return (
-    <div className="max-w-5xl mx-auto px-8 py-16">
-      <h1 className="font-extrabold text-4xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-4">
+    <div className="max-w-5xl mx-auto px-4 py-10 sm:px-8 sm:py-16">
+      <h1 className="font-extrabold text-3xl sm:text-4xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-4">
         The kensu blog
       </h1>
-      <p className="text-neutral-500 dark:text-neutral-400 mb-12">
+      <p className="text-neutral-500 dark:text-neutral-400 mb-10 sm:mb-12">
         Comments abt everything are here
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {posts.map((post) => (
           <Link
             key={post.slug}

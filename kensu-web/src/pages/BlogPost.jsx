@@ -7,7 +7,7 @@ function BlogPost() {
 
   if (!post) {
     return (
-      <div className="max-w-2xl mx-auto px-8 py-16">
+      <div className="max-w-2xl mx-auto px-4 py-10 sm:px-8 sm:py-16">
         <p className="text-neutral-500">Post not found.</p>
         <Link to="/blog" className="text-orange-500 text-sm mt-4 inline-block font-medium">← Back to blog</Link>
       </div>
@@ -15,12 +15,12 @@ function BlogPost() {
   }
 
   return (
-    <div className="max-w-2xl mx-auto px-8 py-16">
+    <div className="max-w-2xl mx-auto px-4 py-10 sm:px-8 sm:py-16">
       <Link to="/blog" className="text-sm text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100">← Back to blog</Link>
       <p className="font-bold text-xs text-orange-500 tracking-wide mt-6 mb-2">
         {post.category} <span className="text-neutral-400 dark:text-neutral-600">{post.date}</span>
       </p>
-      <h1 className="font-extrabold text-3xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-6">
+      <h1 className="font-extrabold text-2xl sm:text-3xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-6">
         {post.title}
       </h1>
       {post.image ? (

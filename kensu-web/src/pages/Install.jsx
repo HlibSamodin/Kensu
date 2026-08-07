@@ -45,12 +45,12 @@ function Install() {
   const [activeStep, setActiveStep] = useState(0)
 
   return (
-    <div className="max-w-5xl mx-auto px-8 py-16">
+    <div className="max-w-5xl mx-auto px-4 py-10 sm:px-8 sm:py-16">
       <p className="font-bold text-xs text-orange-500 tracking-wide mb-3">Orange title here</p>
-      <h1 className="font-extrabold text-4xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-4">
+      <h1 className="font-extrabold text-3xl sm:text-4xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-4">
         Text Here
       </h1>
-      <p className="text-neutral-500 dark:text-neutral-400 mb-12 max-w-xl">
+      <p className="text-neutral-500 dark:text-neutral-400 mb-10 sm:mb-12 max-w-xl">
         Text here
       </p>
 
