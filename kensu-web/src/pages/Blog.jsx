@@ -19,7 +19,11 @@ function Blog() {
             to={`/blog/${post.slug}`}
             className="rounded-xl border border-neutral-200 dark:border-neutral-800 overflow-hidden hover:border-neutral-300 dark:hover:border-neutral-700 transition-colors"
           >
-            <div className={`aspect-[4/3] bg-gradient-to-br ${post.gradient}`} />
+            {post.image ? (
+              <img src={post.image} alt="" className="aspect-[4/3] w-full object-cover" />
+            ) : (
+              <div className={`aspect-[4/3] bg-gradient-to-br ${post.gradient}`} />
+            )}
             <div className="p-5">
               <p className="font-bold text-xs text-orange-500 tracking-wide mb-2">
                 {post.category} <span className="text-neutral-400 dark:text-neutral-600">{post.date}</span>

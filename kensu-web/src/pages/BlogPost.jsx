@@ -17,16 +17,30 @@ function BlogPost() {
   return (
     <div className="max-w-2xl mx-auto px-8 py-16">
       <Link to="/blog" className="text-sm text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100">← Back to blog</Link>
-      <p className="font-mono text-xs text-orange-500 tracking-wide mt-6 mb-2">
+      <p className="font-bold text-xs text-orange-500 tracking-wide mt-6 mb-2">
         {post.category} <span className="text-neutral-400 dark:text-neutral-600">{post.date}</span>
       </p>
       <h1 className="font-extrabold text-3xl tracking-tight text-neutral-900 dark:text-neutral-100 mb-6">
         {post.title}
       </h1>
-      <div className={`aspect-[16/9] rounded-xl bg-gradient-to-br ${post.gradient} mb-8`} />
-      <p className="text-neutral-600 dark:text-neutral-400 leading-relaxed">
-        {post.excerpt}
-      </p>
+      {post.image ? (
+        <img src={post.image} alt="" className="aspect-[16/9] w-full rounded-xl object-cover mb-8" />
+      ) : (
+        <div className={`aspect-[16/9] rounded-xl bg-gradient-to-br ${post.gradient} mb-8`} />
+      )}
+      {post.content ? (
+        <div className="space-y-5">
+          {post.content.map((paragraph, i) => (
+            <p key={i} className="text-neutral-600 dark:text-neutral-400 leading-relaxed">
+              {paragraph}
+            </p>
+          ))}
+        </div>
+      ) : (
+        <p className="text-neutral-600 dark:text-neutral-400 leading-relaxed">
+          {post.excerpt}
+        </p>
+      )}
     </div>
   )
 }
