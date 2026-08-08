@@ -14,9 +14,17 @@ def token_prob_features(runs):
         lp = run["logprobs"]
         if not lp:
             continue
-        per_run_means.append(sum(lp) / len(lp))
-        per_run_mins.append(min(lp))
-        all_logprobs.extend(lp)
+
+        # real api / real dummy data is nested: list of top-k logprobs per token step
+        # take the top-1 (first) logprob per step, same convention as trajectory.py
+        if isinstance(lp[0], list):
+            flat = [token[0] for token in lp]
+        else:
+            flat = lp
+
+        per_run_means.append(sum(flat) / len(flat))
+        per_run_mins.append(min(flat))
+        all_logprobs.extend(flat)
 
     if not all_logprobs:
         return {

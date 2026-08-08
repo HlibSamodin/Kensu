@@ -82,6 +82,7 @@ if __name__ == "__main__":
         "prob_mean_variance": 0.03,
         "entropy_mean": 1.2,
         "entropy_max": 2.1,
+        "prob_trajectory": 0.3,
     }
 
     result = predict_with_breakdown(dummy)

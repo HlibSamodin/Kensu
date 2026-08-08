@@ -23,8 +23,8 @@ FEATURE_COLS = [
     "entropy_mean",
     "entropy_max",
     "prob_trajectory",
-}
-DOMAINS = ["history", "science", "geography", "maths", "fake_citations"]
+]
+DOMAINS = ["history", "science", "geography", "math", "fake-citations"]
 
 
 def load_test_set(path="data/splits/test.csv"):
@@ -53,10 +53,13 @@ def print_metrics(name, y_true, y_pred, y_prob=None):
     print(f"  f1:        {f1:.4f}")
 
     if y_prob is not None:
-        auc = roc_auc_score(y_true, y_prob)
-        print(f"  auc-roc:   {auc:.4f}")
+        if len(set(y_true)) < 2:
+            print("  auc-roc:   n/a (single class present)")
+        else:
+            auc = roc_auc_score(y_true, y_prob)
+            print(f"  auc-roc:   {auc:.4f}")
 
-    cm = confusion_matrix(y_true, y_pred)
+    cm = confusion_matrix(y_true, y_pred, labels=[0, 1])
     tn, fp, fn, tp = cm.ravel()
     print(f"  confusion matrix: tp={tp} fp={fp} fn={fn} tn={tn}")
 
