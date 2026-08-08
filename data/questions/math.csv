@@ -179,3 +179,823 @@ What is Wilsons theorem?,p is prime if and only if p divides p minus 1 factorial
 What is the Euler totient of 12?,4
 What is the Euler totient of 10?,4
 What is the number of integers less than 30 coprime to 30?,8
+What is 14 multiplied by 16?,224
+What is 18 multiplied by 19?,342
+What is 22 multiplied by 24?,528
+What is 26 multiplied by 13?,338
+What is 31 multiplied by 12?,372
+What is 29 multiplied by 14?,406
+What is 33 multiplied by 11?,363
+What is 27 multiplied by 16?,432
+What is 19 multiplied by 19?,361
+What is 21 multiplied by 21?,441
+What is 25 multiplied by 25?,625
+What is 37 multiplied by 13?,481
+What is 41 multiplied by 11?,451
+What is 28 multiplied by 17?,476
+What is 32 multiplied by 15?,480
+What is 24 multiplied by 24?,576
+What is 16 multiplied by 16?,256
+What is 18 multiplied by 22?,396
+What is 23 multiplied by 29?,667
+What is 19 multiplied by 27?,513
+What is 14 multiplied by 29?,406
+What is 26 multiplied by 26?,676
+What is 31 multiplied by 17?,527
+What is 38 multiplied by 12?,456
+What is 43 multiplied by 9?,387
+What is 52 multiplied by 7?,364
+What is 46 multiplied by 8?,368
+What is 35 multiplied by 13?,455
+What is 28 multiplied by 28?,784
+What is 33 multiplied by 17?,561
+What is 44 multiplied by 13?,572
+What is 19 multiplied by 31?,589
+What is 27 multiplied by 27?,729
+What is 29 multiplied by 29?,841
+What is 22 multiplied by 33?,726
+What is 16 multiplied by 44?,704
+What is 35 multiplied by 17?,595
+What is 24 multiplied by 29?,696
+What is 21 multiplied by 38?,798
+What is 18 multiplied by 32?,576
+What is 528 divided by 24?,22
+What is 972 divided by 36?,27
+What is 725 divided by 25?,29
+What is 864 divided by 18?,48
+What is 1155 divided by 21?,55
+What is 1350 divided by 27?,50
+What is 2016 divided by 32?,63
+What is 1216 divided by 19?,64
+What is 713 divided by 23?,31
+What is 901 divided by 17?,53
+What is 826 divided by 14?,59
+What is 988 divided by 26?,38
+What is 1271 divided by 31?,41
+What is 949 divided by 13?,73
+What is 1073 divided by 29?,37
+What is 1078 divided by 22?,49
+What is 1136 divided by 16?,71
+What is 884 divided by 34?,26
+What is 924 divided by 28?,33
+What is 893 divided by 19?,47
+What is 21 squared?,441
+What is 22 squared?,484
+What is 23 squared?,529
+What is 24 squared?,576
+What is 25 squared?,625
+What is 26 squared?,676
+What is 27 squared?,729
+What is 28 squared?,784
+What is 29 squared?,841
+What is 30 squared?,900
+What is 31 squared?,961
+What is 32 squared?,1024
+What is 33 squared?,1089
+What is 34 squared?,1156
+What is 35 squared?,1225
+What is 36 squared?,1296
+What is 37 squared?,1369
+What is 38 squared?,1444
+What is 39 squared?,1521
+What is 40 squared?,1600
+What is 41 squared?,1681
+What is 42 squared?,1764
+What is 43 squared?,1849
+What is 44 squared?,1936
+What is 45 squared?,2025
+What is 46 squared?,2116
+What is 47 squared?,2209
+What is 48 squared?,2304
+What is 49 squared?,2401
+What is 4 cubed?,64
+What is 5 cubed?,125
+What is 6 cubed?,216
+What is 7 cubed?,343
+What is 8 cubed?,512
+What is 9 cubed?,729
+What is 10 cubed?,1000
+What is 11 cubed?,1331
+What is 12 cubed?,1728
+What is 13 cubed?,2197
+What is 14 cubed?,2744
+What is 15 cubed?,3375
+What is 16 cubed?,4096
+What is 17 cubed?,4913
+What is 18 cubed?,5832
+What is 19 cubed?,6859
+What is 20 cubed?,8000
+What is 21 cubed?,9261
+What is 22 cubed?,10648
+What is 23 cubed?,12167
+What is 24 cubed?,13824
+What is the square root of 441?,21
+What is the square root of 484?,22
+What is the square root of 529?,23
+What is the square root of 576?,24
+What is the square root of 676?,26
+What is the square root of 729?,27
+What is the square root of 784?,28
+What is the square root of 841?,29
+What is the square root of 900?,30
+What is the square root of 961?,31
+What is the square root of 1024?,32
+What is the square root of 1089?,33
+What is the square root of 1156?,34
+What is the square root of 1225?,35
+What is the square root of 1296?,36
+What is the square root of 1369?,37
+What is the square root of 1444?,38
+What is the square root of 1521?,39
+What is the square root of 1600?,40
+What is the square root of 1681?,41
+What is the square root of 1849?,43
+What is the square root of 1936?,44
+What is the square root of 2025?,45
+What is the square root of 2116?,46
+What is the square root of 2209?,47
+What is the square root of 2304?,48
+What is the square root of 2401?,49
+What is the square root of 2500?,50
+What is the square root of 2601?,51
+What is the square root of 2704?,52
+What is the square root of 2809?,53
+What is the square root of 2916?,54
+What is the cube root of 64?,4
+What is the cube root of 125?,5
+What is the cube root of 343?,7
+What is the cube root of 729?,9
+What is the cube root of 1331?,11
+What is the cube root of 1728?,12
+What is the cube root of 2197?,13
+What is the cube root of 2744?,14
+What is the cube root of 3375?,15
+What is the cube root of 4096?,16
+What is the cube root of 4913?,17
+What is the cube root of 5832?,18
+What is the cube root of 6859?,19
+What is the cube root of 8000?,20
+What is the cube root of 9261?,21
+What is the cube root of 10648?,22
+What is the cube root of 12167?,23
+What is the cube root of 13824?,24
+What is 2 to the power of 11?,2048
+What is 2 to the power of 12?,4096
+What is 2 to the power of 13?,8192
+What is 2 to the power of 14?,16384
+What is 2 to the power of 17?,131072
+What is 2 to the power of 18?,262144
+What is 2 to the power of 20?,1048576
+What is 3 to the power of 5?,243
+What is 3 to the power of 6?,729
+What is 3 to the power of 8?,6561
+What is 3 to the power of 9?,19683
+What is 3 to the power of 10?,59049
+What is 4 to the power of 6?,4096
+What is 4 to the power of 7?,16384
+What is 4 to the power of 8?,65536
+What is 5 to the power of 4?,625
+What is 5 to the power of 5?,3125
+What is 5 to the power of 7?,78125
+What is 6 to the power of 3?,216
+What is 6 to the power of 5?,7776
+What is 7 to the power of 3?,343
+What is 7 to the power of 5?,16807
+What is 8 to the power of 3?,512
+What is 8 to the power of 5?,32768
+What is 9 to the power of 4?,6561
+What is 10 to the power of 5?,100000
+What is 10 to the power of 6?,1000000
+What is 11 to the power of 4?,14641
+What is 12 to the power of 3?,1728
+What is 13 to the power of 3?,2197
+What is 1 factorial?,1
+What is 2 factorial?,2
+What is 3 factorial?,6
+What is 4 factorial?,24
+What is 6 factorial?,720
+What is 9 factorial?,362880
+What is 10 factorial?,3628800
+What is 11 factorial?,39916800
+What is 13 factorial?,6227020800
+What is 14 factorial?,87178291200
+What is 15 factorial?,1307674368000
+What is 10 percent of 90?,9.0
+What is 20 percent of 150?,30.0
+What is 25 percent of 320?,80.0
+What is 45 percent of 200?,90.0
+What is 12 percent of 750?,90.0
+What is 18 percent of 650?,117.0
+What is 60 percent of 45?,27.0
+What is 30 percent of 90?,27.0
+What is 75 percent of 240?,180.0
+What is 5 percent of 900?,45.0
+What is 40 percent of 175?,70.0
+What is 33 percent of 300?,99.0
+What is 22 percent of 500?,110.0
+What is 9 percent of 600?,54.0
+What is 65 percent of 80?,52.0
+What is 80 percent of 25?,20.0
+What is 14 percent of 250?,35.0
+What is 28 percent of 150?,42.0
+What is 55 percent of 120?,66.0
+What is 90 percent of 40?,36.0
+What is the greatest common divisor of 36 and 60?,12
+What is the greatest common divisor of 45 and 75?,15
+What is the greatest common divisor of 28 and 42?,14
+What is the greatest common divisor of 63 and 84?,21
+What is the greatest common divisor of 24 and 90?,6
+What is the greatest common divisor of 35 and 105?,35
+What is the greatest common divisor of 72 and 96?,24
+What is the greatest common divisor of 54 and 81?,27
+What is the greatest common divisor of 40 and 64?,8
+What is the greatest common divisor of 18 and 45?,9
+What is the least common multiple of 6 and 8?,24
+What is the least common multiple of 9 and 12?,36
+What is the least common multiple of 10 and 15?,30
+What is the least common multiple of 14 and 21?,42
+What is the least common multiple of 5 and 6?,30
+What is the least common multiple of 4 and 9?,36
+What is the least common multiple of 15 and 20?,60
+What is the least common multiple of 6 and 10?,30
+What is the least common multiple of 8 and 12?,24
+What is the least common multiple of 7 and 9?,63
+Is 2 a prime number?,yes
+Is 3 a prime number?,yes
+Is 17 a prime number?,yes
+Is 29 a prime number?,yes
+Is 41 a prime number?,yes
+Is 53 a prime number?,yes
+Is 61 a prime number?,yes
+Is 71 a prime number?,yes
+Is 83 a prime number?,yes
+Is 89 a prime number?,yes
+Is 101 a prime number?,yes
+Is 113 a prime number?,yes
+Is 127 a prime number?,yes
+Is 131 a prime number?,yes
+Is 4 a prime number?,no
+Is 9 a prime number?,no
+Is 15 a prime number?,no
+Is 21 a prime number?,no
+Is 33 a prime number?,no
+Is 49 a prime number?,no
+Is 51 a prime number?,no
+Is 57 a prime number?,no
+Is 63 a prime number?,no
+Is 69 a prime number?,no
+Is 77 a prime number?,no
+Is 87 a prime number?,no
+Is 93 a prime number?,no
+Is 99 a prime number?,no
+Is 111 a prime number?,no
+Is 121 a prime number?,no
+What is the sum of interior angles of a heptagon in degrees?,900
+How many diagonals does a heptagon have?,14
+What is the interior angle of a regular heptagon in degrees?,128.57142857142858
+What is the exterior angle of a regular heptagon in degrees?,51.42857142857143
+What is the sum of interior angles of a nonagon in degrees?,1260
+How many diagonals does a nonagon have?,27
+What is the interior angle of a regular nonagon in degrees?,140.0
+What is the exterior angle of a regular nonagon in degrees?,40.0
+What is the sum of interior angles of a decagon in degrees?,1440
+How many diagonals does a decagon have?,35
+What is the interior angle of a regular decagon in degrees?,144.0
+What is the exterior angle of a regular decagon in degrees?,36.0
+What is the sum of interior angles of a dodecagon in degrees?,1800
+How many diagonals does a dodecagon have?,54
+What is the interior angle of a regular dodecagon in degrees?,150.0
+What is the exterior angle of a regular dodecagon in degrees?,30.0
+What is the sum of interior angles of a triangle in degrees?,180
+How many diagonals does a triangle have?,0
+What is the interior angle of a regular triangle in degrees?,60.0
+What is the exterior angle of a regular triangle in degrees?,120.0
+What is the sum of interior angles of a quadrilateral in degrees?,360
+How many diagonals does a quadrilateral have?,2
+What is the interior angle of a regular quadrilateral in degrees?,90.0
+What is the exterior angle of a regular quadrilateral in degrees?,90.0
+What is the sum of interior angles of a octagon in degrees?,1080
+How many diagonals does a octagon have?,20
+What is the exterior angle of a regular octagon in degrees?,45.0
+What is the sum of interior angles of a hendecagon in degrees?,1620
+How many diagonals does a hendecagon have?,44
+What is the interior angle of a regular hendecagon in degrees?,147.27272727272728
+What is the exterior angle of a regular hendecagon in degrees?,32.72727272727273
+What is the value of sin 45 degrees?,root 2 over 2
+What is the value of sin 60 degrees?,root 3 over 2
+What is the value of sin 180 degrees?,0
+What is the value of sin 270 degrees?,-1
+What is the value of sin 360 degrees?,0
+What is the value of cos 30 degrees?,root 3 over 2
+What is the value of cos 45 degrees?,root 2 over 2
+What is the value of cos 90 degrees?,0
+What is the value of cos 180 degrees?,-1
+What is the value of cos 270 degrees?,0
+What is the value of cos 360 degrees?,1
+What is the value of tan 0 degrees?,0
+What is the value of tan 30 degrees?,root 3 over 3
+What is the value of tan 60 degrees?,root 3
+What is the value of tan 180 degrees?,0
+What is the derivative of x to the power of 4?,4x to the power of 3
+What is the derivative of x to the power of 5?,5x to the power of 4
+What is the derivative of x to the power of 6?,6x to the power of 5
+What is the derivative of x to the power of 7?,7x to the power of 6
+What is the derivative of x to the power of 8?,8x to the power of 7
+What is the integral of x to the power of 4?,x to the power of 5 over 5
+What is the integral of x to the power of 5?,x to the power of 6 over 6
+What is the integral of x to the power of 6?,x to the power of 7 over 7
+What is the integral of x to the power of 7?,x to the power of 8 over 8
+What is the integral of x to the power of 8?,x to the power of 9 over 9
+What is the derivative of tan x?,sec squared x
+What is the derivative of a constant?,0
+What is the integral of sec squared x?,tan x
+What is the integral of sin x?,negative cos x
+What is the derivative of 1 over x?,negative 1 over x squared
+What is the derivative of the square root of x?,1 over 2 times the square root of x
+What is the third derivative of x to the power of 5?,60x squared
+What is the second derivative of x to the power of 3?,6x
+What is the 1st Fibonacci number?,1
+What is the 2nd Fibonacci number?,1
+What is the 3rd Fibonacci number?,2
+What is the 4th Fibonacci number?,3
+What is the 5th Fibonacci number?,5
+What is the 6th Fibonacci number?,8
+What is the 8th Fibonacci number?,21
+What is the 9th Fibonacci number?,34
+What is the 11th Fibonacci number?,89
+What is the 12th Fibonacci number?,144
+What is the 13th Fibonacci number?,233
+What is the 14th Fibonacci number?,377
+What is the 15th Fibonacci number?,610
+What is the 16th Fibonacci number?,987
+What is the 17th Fibonacci number?,1597
+What is the 18th Fibonacci number?,2584
+What is the prime factorisation of 72?,2 to the power of 3 times 3 to the power of 2
+What is the prime factorisation of 90?,2 times 3 to the power of 2 times 5
+What is the prime factorisation of 108?,2 to the power of 2 times 3 to the power of 3
+What is the prime factorisation of 132?,2 to the power of 2 times 3 times 11
+What is the prime factorisation of 150?,2 times 3 times 5 to the power of 2
+What is the prime factorisation of 196?,2 to the power of 2 times 7 to the power of 2
+What is the prime factorisation of 210?,2 times 3 times 5 times 7
+What is the prime factorisation of 264?,2 to the power of 3 times 3 times 11
+What is the prime factorisation of 315?,3 to the power of 2 times 5 times 7
+What is the prime factorisation of 360?,2 to the power of 3 times 3 to the power of 2 times 5
+What is the mean of 4 8 15 16 23?,13.2
+What is the median of 4 8 15 16 23?,15
+What is the range of 4 8 15 16 23?,19
+What is the mean of 2 3 5 7 11 13?,6.833
+What is the median of 2 3 5 7 11 13?,6.0
+What is the range of 2 3 5 7 11 13?,11
+What is the mean of 10 20 20 30 40?,24
+What is the median of 10 20 20 30 40?,20
+What is the range of 10 20 20 30 40?,30
+What is the mean of 1 1 2 3 5 8 13?,4.714
+What is the median of 1 1 2 3 5 8 13?,3
+What is the range of 1 1 2 3 5 8 13?,12
+What is the mean of 6 6 6 9 9 12?,8
+What is the median of 6 6 6 9 9 12?,7.5
+What is the range of 6 6 6 9 9 12?,6
+What is the mean of 5 10 15 20 25 30?,17.5
+What is the median of 5 10 15 20 25 30?,17.5
+What is the range of 5 10 15 20 25 30?,25
+What is the number of permutations of 6 things taken 2 at a time?,30
+What is the number of combinations of 6 things taken 2 at a time?,15
+What is the number of permutations of 7 things taken 3 at a time?,210
+What is the number of combinations of 7 things taken 3 at a time?,35
+What is the number of permutations of 8 things taken 2 at a time?,56
+What is the number of combinations of 8 things taken 2 at a time?,28
+What is the number of permutations of 9 things taken 4 at a time?,3024
+What is the number of combinations of 9 things taken 4 at a time?,126
+What is the number of permutations of 6 things taken 4 at a time?,360
+What is the number of combinations of 6 things taken 4 at a time?,15
+What is the number of permutations of 5 things taken 2 at a time?,20
+What is the number of combinations of 5 things taken 2 at a time?,10
+What is the number of permutations of 8 things taken 3 at a time?,336
+What is the number of combinations of 8 things taken 3 at a time?,56
+What is the number of permutations of 9 things taken 2 at a time?,72
+What is the number of combinations of 9 things taken 2 at a time?,36
+What is the number of permutations of 7 things taken 2 at a time?,42
+What is the number of combinations of 7 things taken 2 at a time?,21
+What is the number of permutations of 10 things taken 3 at a time?,720
+What is the number of combinations of 10 things taken 3 at a time?,120
+What is the sum of proper divisors of 8?,7
+What is the sum of proper divisors of 10?,8
+What is the sum of proper divisors of 18?,21
+What is the sum of proper divisors of 20?,22
+What is the sum of proper divisors of 24?,36
+What is the sum of proper divisors of 30?,42
+What is the Euler totient of 15?,8
+What is the Euler totient of 18?,6
+What is the Euler totient of 20?,8
+What is the Euler totient of 24?,8
+What is the Euler totient of 36?,12
+What is the Euler totient of 50?,20
+What is 26 multiplied by 14?,364
+What is 47 multiplied by 42?,1974
+What is 40 multiplied by 28?,1120
+What is 25 multiplied by 22?,550
+What is 87 multiplied by 65?,5655
+What is 16 multiplied by 14?,224
+What is 23 multiplied by 38?,874
+What is 41 multiplied by 75?,3075
+What is 89 multiplied by 14?,1246
+What is 83 multiplied by 36?,2988
+What is 81 multiplied by 64?,5184
+What is 40 multiplied by 68?,2720
+What is 87 multiplied by 46?,4002
+What is 12 multiplied by 31?,372
+What is 66 multiplied by 54?,3564
+What is 47 multiplied by 30?,1410
+What is 39 multiplied by 54?,2106
+What is 60 multiplied by 23?,1380
+What is 57 multiplied by 55?,3135
+What is 89 multiplied by 44?,3916
+What is 17 multiplied by 69?,1173
+What is 80 multiplied by 26?,2080
+What is 60 multiplied by 21?,1260
+What is 82 multiplied by 48?,3936
+What is 58 multiplied by 35?,2030
+What is 20 multiplied by 16?,320
+What is 41 multiplied by 48?,1968
+What is 22 multiplied by 40?,880
+What is 24 multiplied by 59?,1416
+What is 47 multiplied by 69?,3243
+What is 58 multiplied by 31?,1798
+What is 59 multiplied by 56?,3304
+What is 38 multiplied by 45?,1710
+What is 21 multiplied by 32?,672
+What is 80 multiplied by 42?,3360
+What is 32 multiplied by 70?,2240
+What is 60 multiplied by 45?,2700
+What is 83 multiplied by 39?,3237
+What is 53 multiplied by 18?,954
+What is 41 multiplied by 15?,615
+What is 52 multiplied by 62?,3224
+What is 46 multiplied by 19?,874
+What is 39 multiplied by 51?,1989
+What is 39 multiplied by 74?,2886
+What is 62 multiplied by 69?,4278
+What is 30 multiplied by 44?,1320
+What is 29 multiplied by 42?,1218
+What is 83 multiplied by 79?,6557
+What is 45 multiplied by 65?,2925
+What is 86 multiplied by 62?,5332
+What is 58 multiplied by 39?,2262
+What is 29 multiplied by 76?,2204
+What is 75 multiplied by 22?,1650
+What is 18 multiplied by 25?,450
+What is 31 multiplied by 31?,961
+What is 66 multiplied by 19?,1254
+What is 61 multiplied by 59?,3599
+What is 88 multiplied by 70?,6160
+What is 79 multiplied by 43?,3397
+What is 82 multiplied by 12?,984
+What is 26 multiplied by 79?,2054
+What is 46 multiplied by 54?,2484
+What is 26 multiplied by 48?,1248
+What is 67 multiplied by 31?,2077
+What is 70 multiplied by 11?,770
+What is 45 multiplied by 75?,3375
+What is 34 multiplied by 75?,2550
+What is 25 multiplied by 49?,1225
+What is 76 multiplied by 36?,2736
+What is 31 multiplied by 58?,1798
+What is 32 multiplied by 78?,2496
+What is 12 multiplied by 52?,624
+What is 74 multiplied by 13?,962
+What is 26 multiplied by 57?,1482
+What is 51 multiplied by 41?,2091
+What is 19 multiplied by 41?,779
+What is 84 multiplied by 21?,1764
+What is 22 multiplied by 73?,1606
+What is 20 multiplied by 79?,1580
+What is 28 multiplied by 27?,756
+What is 72 multiplied by 32?,2304
+What is 45 multiplied by 78?,3510
+What is 89 multiplied by 65?,5785
+What is 39 multiplied by 36?,1404
+What is 51 multiplied by 62?,3162
+What is 59 multiplied by 67?,3953
+What is 78 multiplied by 68?,5304
+What is 27 multiplied by 42?,1134
+What is 40 multiplied by 19?,760
+What is 55 multiplied by 13?,715
+What is 87 multiplied by 40?,3480
+What is 87 multiplied by 39?,3393
+What is 12 multiplied by 20?,240
+What is 19 multiplied by 40?,760
+What is 20 multiplied by 15?,300
+What is 54 multiplied by 20?,1080
+What is 77 multiplied by 41?,3157
+What is 47 multiplied by 73?,3431
+What is 39 multiplied by 27?,1053
+What is 85 multiplied by 71?,6035
+What is 43 multiplied by 71?,3053
+What is 64 multiplied by 35?,2240
+What is 24 multiplied by 23?,552
+What is 67 multiplied by 56?,3752
+What is 66 multiplied by 63?,4158
+What is 71 multiplied by 17?,1207
+What is 24 multiplied by 18?,432
+What is 63 multiplied by 54?,3402
+What is 25 multiplied by 42?,1050
+What is 36 multiplied by 35?,1260
+What is 80 multiplied by 68?,5440
+What is 29 multiplied by 65?,1885
+What is 35 multiplied by 46?,1610
+What is 71 multiplied by 42?,2982
+What is 21 multiplied by 67?,1407
+What is 82 multiplied by 23?,1886
+What is 18 multiplied by 12?,216
+What is 23 multiplied by 41?,943
+What is 33 multiplied by 63?,2079
+What is 74 multiplied by 72?,5328
+What is 50 squared?,2500
+What is 51 squared?,2601
+What is 52 squared?,2704
+What is 53 squared?,2809
+What is 54 squared?,2916
+What is 55 squared?,3025
+What is 56 squared?,3136
+What is 57 squared?,3249
+What is 58 squared?,3364
+What is 59 squared?,3481
+What is 60 squared?,3600
+What is 61 squared?,3721
+What is 62 squared?,3844
+What is 63 squared?,3969
+What is 64 squared?,4096
+What is 65 squared?,4225
+What is 66 squared?,4356
+What is 67 squared?,4489
+What is 68 squared?,4624
+What is 69 squared?,4761
+What is 70 squared?,4900
+What is 71 squared?,5041
+What is 72 squared?,5184
+What is 73 squared?,5329
+What is 74 squared?,5476
+What is 75 squared?,5625
+What is 76 squared?,5776
+What is 77 squared?,5929
+What is 78 squared?,6084
+What is 79 squared?,6241
+What is 80 squared?,6400
+What is 81 squared?,6561
+What is 82 squared?,6724
+What is 83 squared?,6889
+What is 84 squared?,7056
+What is 85 squared?,7225
+What is 86 squared?,7396
+What is 87 squared?,7569
+What is 88 squared?,7744
+What is 89 squared?,7921
+What is 90 squared?,8100
+What is 91 squared?,8281
+What is 92 squared?,8464
+What is 93 squared?,8649
+What is 94 squared?,8836
+What is 95 squared?,9025
+What is 96 squared?,9216
+What is 97 squared?,9409
+What is 98 squared?,9604
+What is 99 squared?,9801
+What is 25 cubed?,15625
+What is 26 cubed?,17576
+What is 27 cubed?,19683
+What is 28 cubed?,21952
+What is 29 cubed?,24389
+What is 30 cubed?,27000
+What is 31 cubed?,29791
+What is 32 cubed?,32768
+What is 33 cubed?,35937
+What is 34 cubed?,39304
+What is 35 cubed?,42875
+What is 36 cubed?,46656
+What is 37 cubed?,50653
+What is 38 cubed?,54872
+What is 39 cubed?,59319
+What is 40 cubed?,64000
+What is 2 to the power of 19?,524288
+What is 2 to the power of 21?,2097152
+What is 2 to the power of 22?,4194304
+What is 3 to the power of 11?,177147
+What is 3 to the power of 12?,531441
+What is 4 to the power of 9?,262144
+What is 4 to the power of 10?,1048576
+What is 5 to the power of 8?,390625
+What is 6 to the power of 6?,46656
+What is 6 to the power of 7?,279936
+What is 7 to the power of 6?,117649
+What is 7 to the power of 7?,823543
+What is 8 to the power of 6?,262144
+What is 9 to the power of 5?,59049
+What is 9 to the power of 6?,531441
+What is 10 to the power of 7?,10000000
+What is 11 to the power of 5?,161051
+What is 12 to the power of 4?,20736
+What is 13 to the power of 4?,28561
+What is 14 to the power of 3?,2744
+What is 15 to the power of 3?,3375
+What is 16 to the power of 3?,4096
+What is 17 to the power of 2?,289
+What is 19 to the power of 2?,361
+What is 23 to the power of 2?,529
+What is 29 to the power of 2?,841
+What is 31 to the power of 2?,961
+What is 37 to the power of 2?,1369
+What is 41 to the power of 2?,1681
+What is 43 to the power of 2?,1849
+What is 11 percent of 220?,24.2
+What is 13 percent of 650?,84.5
+What is 17 percent of 400?,68.0
+What is 19 percent of 900?,171.0
+What is 21 percent of 350?,73.5
+What is 23 percent of 600?,138.0
+What is 27 percent of 800?,216.0
+What is 31 percent of 250?,77.5
+What is 37 percent of 540?,199.8
+What is 41 percent of 300?,123.0
+What is 43 percent of 700?,301.0
+What is 47 percent of 900?,423.0
+What is 53 percent of 200?,106.0
+What is 57 percent of 350?,199.5
+What is 61 percent of 450?,274.5
+What is 67 percent of 900?,603.0
+What is 71 percent of 500?,355.0
+What is 73 percent of 600?,438.0
+What is 79 percent of 700?,553.0
+What is 83 percent of 900?,747.0
+What is 2 percent of 150?,3.0
+What is 4 percent of 250?,10.0
+What is 6 percent of 350?,21.0
+What is 8 percent of 450?,36.0
+What is 16 percent of 750?,120.0
+What is 24 percent of 325?,78.0
+What is 26 percent of 450?,117.0
+What is 34 percent of 550?,187.0
+What is 36 percent of 650?,234.0
+What is 38 percent of 850?,323.0
+What is 42 percent of 900?,378.0
+What is 44 percent of 950?,418.0
+What is 48 percent of 375?,180.0
+What is 52 percent of 625?,325.0
+What is 54 percent of 850?,459.0
+What is 56 percent of 900?,504.0
+What is 58 percent of 375?,217.5
+What is 62 percent of 450?,279.0
+What is 64 percent of 875?,560.0
+What is 66 percent of 950?,627.0
+What is 660 divided by 15?,44
+What is 1073 divided by 37?,29
+What is 1001 divided by 11?,91
+What is 1056 divided by 33?,32
+What is 1164 divided by 12?,97
+What is 924 divided by 44?,21
+What is 1102 divided by 19?,58
+What is 1219 divided by 23?,53
+What is 1264 divided by 16?,79
+What is 1188 divided by 27?,44
+What is 798 divided by 38?,21
+What is 966 divided by 42?,23
+What is 1189 divided by 29?,41
+What is 1147 divided by 31?,37
+What is 1242 divided by 46?,27
+What is 912 divided by 48?,19
+What is 1157 divided by 13?,89
+What is 1207 divided by 17?,71
+What is 1407 divided by 21?,67
+What is 1416 divided by 24?,59
+What is 1484 divided by 28?,53
+What is 1504 divided by 32?,47
+What is 1548 divided by 36?,43
+What is 1599 divided by 39?,41
+What is the square root of 3025?,55
+What is the square root of 3136?,56
+What is the square root of 3249?,57
+What is the square root of 3364?,58
+What is the square root of 3481?,59
+What is the square root of 3600?,60
+What is the square root of 3721?,61
+What is the square root of 3844?,62
+What is the square root of 3969?,63
+What is the square root of 4096?,64
+What is the square root of 4225?,65
+What is the square root of 4356?,66
+What is the square root of 4489?,67
+What is the square root of 4624?,68
+What is the square root of 4761?,69
+What is the square root of 4900?,70
+What is the square root of 5041?,71
+What is the square root of 5184?,72
+What is the square root of 5329?,73
+What is the square root of 5476?,74
+What is the square root of 5625?,75
+What is the square root of 5776?,76
+What is the square root of 5929?,77
+What is the square root of 6084?,78
+What is the square root of 6241?,79
+What is the square root of 6400?,80
+What is the square root of 6561?,81
+What is the square root of 6724?,82
+What is the square root of 6889?,83
+What is the fundamental theorem of calculus?,differentiation and integration are inverse operations
+What is the fundamental theorem of algebra?,every non-constant polynomial with complex coefficients has at least one complex root
+What is the intermediate value theorem?,if a continuous function takes values f(a) and f(b) it takes every value between them on the interval
+What is the mean value theorem?,there exists a point where the derivative equals the average rate of change over the interval
+What is Rolle's theorem?,if f(a) equals f(b) for a differentiable function there exists a point in between where the derivative is zero
+What is Taylor's theorem used for?,approximating a function as a sum of terms derived from its derivatives at a point
+What is L'Hopital's rule used for?,evaluating limits of indeterminate forms by differentiating the numerator and denominator
+What is the Cauchy-Schwarz inequality?,the absolute value of the dot product of two vectors is at most the product of their magnitudes
+What is the AM-GM inequality?,the arithmetic mean of non-negative numbers is always greater than or equal to their geometric mean
+What is the pigeonhole principle?,if n items are placed into fewer than n containers at least one container holds more than one item
+What is the Chinese remainder theorem used for?,solving systems of simultaneous congruences with coprime moduli
+What is the fundamental theorem of arithmetic?,every integer greater than 1 has a unique prime factorisation
+What is Bezout's identity?,for integers a and b there exist integers x and y such that ax plus by equals their greatest common divisor
+What is Euler's formula for polyhedra?,vertices minus edges plus faces equals 2
+What does Stokes' theorem relate?,the surface integral of a curl to the line integral around the boundary
+What does Green's theorem relate?,a line integral around a closed curve to a double integral over the region it encloses
+What does the divergence theorem relate?,the flux through a closed surface to the divergence integrated over the enclosed volume
+What is the central limit theorem?,the distribution of sample means approaches a normal distribution as sample size increases
+What is the law of large numbers?,as the number of trials increases the sample average converges to the expected value
+What is the Cayley-Hamilton theorem?,every square matrix satisfies its own characteristic equation
+What is Fermat's little theorem?,if p is prime then a to the power p is congruent to a modulo p
+What is an eigenvalue?,a scalar such that a matrix applied to its eigenvector only scales the vector
+What is an eigenvector?,a nonzero vector that only changes by a scalar factor when a linear transformation is applied
+What is the rank of a matrix?,the number of linearly independent rows or columns
+What is the transpose of a matrix?,a matrix formed by swapping its rows and columns
+What is an orthogonal matrix?,a matrix whose transpose equals its inverse
+What is a positive definite matrix?,a symmetric matrix where all eigenvalues are positive
+What does the characteristic polynomial of a matrix determine?,the eigenvalues of the matrix
+What is the complex conjugate of a plus bi?,a minus bi
+What is the modulus of a complex number a plus bi?,the square root of a squared plus b squared
+What is the argument of a complex number?,the angle it makes with the positive real axis
+What is De Moivre's theorem?,r to the power n times cos n theta plus i sin n theta equals r cos theta plus i sin theta to the power n
+What is Euler's formula relating a complex exponential to trigonometric functions?,e to the i theta equals cos theta plus i sin theta
+What is the order of a differential equation?,the highest derivative appearing in the equation
+What is a particular solution of a differential equation?,a specific solution satisfying given initial or boundary conditions
+What is the Laplace transform used for?,converting a differential equation into an algebraic equation in another variable
+What is a Fourier series used for?,representing a periodic function as a sum of sines and cosines
+What is a partial derivative?,the derivative of a multivariable function with respect to one variable holding the others constant
+What is the gradient of a scalar function?,a vector of its partial derivatives pointing in the direction of steepest increase
+What does the divergence of a vector field measure?,the net outward flux per unit volume at a point
+What does the curl of a vector field measure?,the rotation or circulation of the field at a point
+What is the Jacobian matrix?,a matrix of all first-order partial derivatives of a vector-valued function
+What is the Hessian matrix used for?,determining the concavity of a multivariable function using second-order partial derivatives
+What is a convex function?,a function where the line segment between any two points on its graph lies above or on the graph
+What is the Maclaurin series of e to the x?,the sum of x to the power n over n factorial for n from 0 to infinity
+What is the radius of convergence of a power series?,the distance from the centre within which the series converges
+What is the ratio test used for?,determining whether an infinite series converges by examining the limit of consecutive term ratios
+What is the root test used for?,determining the convergence of a series using the limit of the nth root of its terms
+What condition must the common ratio satisfy for a geometric series to converge?,the absolute value of the common ratio must be less than 1
+Does the harmonic series converge or diverge?,diverges
+"What is the sum of the reciprocals of the squares of all positive integers, known as the Basel problem?",pi squared over 6
+What is Stirling's approximation used for?,approximating large factorials
+What are generating functions used for?,encoding a sequence as the coefficients of a power series
+What is Binet's formula used for?,giving a closed-form expression for the nth Fibonacci number
+What do Catalan numbers count?,the number of valid ways to arrange nested pairs of brackets
+What does Pascal's triangle generate?,binomial coefficients
+What does Vandermonde's identity express?,a binomial coefficient of a sum as a sum of products of binomial coefficients
+What is a derangement?,a permutation in which no element appears in its original position
+What is the definition of a mathematical group?,"a set with an operation that is closed, associative, has an identity element, and every element has an inverse"
+What is an abelian group?,a group in which the operation is commutative
+What is the identity element of a group?,the element that leaves other elements unchanged when combined with them under the group operation
+What is a ring in abstract algebra?,"a set with two operations, addition and multiplication, satisfying distributive and associative properties"
+What is a field in abstract algebra?,a ring in which every nonzero element has a multiplicative inverse
+What do the vector space axioms define?,the rules a set of vectors must satisfy under addition and scalar multiplication
+What is linear independence?,a property of a set of vectors where no vector can be written as a combination of the others
+What is the basis of a vector space?,a linearly independent set of vectors that spans the space
+What is the dimension of a vector space?,the number of vectors in a basis for the space
+What is the kernel of a linear transformation?,the set of vectors that map to zero
+What is the image of a linear transformation?,the set of all possible output vectors
+What is an isomorphism?,a bijective mapping between two structures that preserves their operations
+What is a homomorphism?,a structure-preserving map between two algebraic structures
+What is a bijection?,a function that is both injective and surjective
+What is an equivalence relation?,"a relation that is reflexive, symmetric, and transitive"
+What is the well-ordering principle?,every nonempty set of positive integers has a least element
+What is the principle of mathematical induction used for?,proving a statement true for all natural numbers via a base case and an inductive step
+What proof technique assumes the opposite of the statement to derive a contradiction?,proof by contradiction
+What is the cardinality of the continuum?,the cardinality of the set of real numbers
+What is a countable set?,a set whose elements can be put into a one-to-one correspondence with the natural numbers
+What is a Cauchy sequence?,a sequence whose terms become arbitrarily close to each other as the sequence progresses
+What is a complete metric space?,a metric space in which every Cauchy sequence converges within the space
+"What is a compact set in topology, within Euclidean space?",a set that is closed and bounded
+What is an open set?,a set in which every point has a neighbourhood entirely contained within the set
+What is a metric space?,a set equipped with a function that defines the distance between any two elements
+What is the epsilon-delta definition of a limit used for?,giving a rigorous formal definition of what it means for a function to approach a value
+What is the squeeze theorem used for?,finding the limit of a function by bounding it between two other functions with the same limit
+What is an improper integral?,a definite integral with an infinite limit of integration or an unbounded integrand
+What is the alternating series test used for?,determining the convergence of a series whose terms alternate in sign
+What is a p-series?,a series of the form the sum of 1 over n to the power p
+For what values of p does a p-series converge?,p greater than 1
+What is the multinomial theorem a generalisation of?,the binomial theorem to sums with more than two terms
+What is a recurrence relation?,an equation that defines a sequence in terms of its previous terms
+What is the discriminant of a quadratic equation used to determine?,the number and nature of its roots
+What discriminant value indicates a quadratic equation has two distinct real roots?,a positive discriminant
+What discriminant value indicates a quadratic equation has repeated real roots?,a discriminant of zero
+What discriminant value indicates a quadratic equation has complex roots?,a negative discriminant
+What is the imaginary unit i defined as?,the square root of negative 1
+What is Euler's number e commonly defined as the limit of?,1 plus 1 over n to the power n as n approaches infinity
+What is a Taylor series centred at zero also called?,a Maclaurin series
+"What is the test that classifies a critical point as a maximum, minimum, or saddle point using the second derivative called?",the second derivative test
+What is a saddle point?,a critical point that is neither a local maximum nor a local minimum
