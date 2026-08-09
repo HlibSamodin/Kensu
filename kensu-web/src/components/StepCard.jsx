@@ -8,8 +8,8 @@ function StepCard({ number, title, description, command, active }) {
         <span className="ml-3 font-extrabold text-base text-neutral-900 dark:text-neutral-100">{title}</span>
       </p>
       <p className="text-sm text-neutral-500 dark:text-neutral-400 mb-4">{description}</p>
-      <div className="flex flex-wrap items-center justify-between gap-2 bg-neutral-100 dark:bg-neutral-900 rounded-lg px-4 py-3">
-        <pre className="font-mono text-sm text-neutral-800 dark:text-neutral-200 whitespace-pre-wrap break-all sm:break-normal min-w-0">{command}</pre>
+      <div className="flex flex-nowrap items-start justify-between gap-2 bg-neutral-100 dark:bg-neutral-900 rounded-lg px-4 py-3">
+        <pre className="font-mono text-sm text-neutral-800 dark:text-neutral-200 whitespace-pre-wrap break-all sm:break-normal min-w-0 flex-1">{command}</pre>
         <CopyButton text={command} />
       </div>
     </div>

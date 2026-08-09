@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Nav from './components/Nav'
+import Loader from './components/Loader'
 import Install from './pages/Install'
 import Blog from './pages/Blog'
 import BlogPost from './pages/BlogPost'
@@ -7,6 +8,7 @@ import BlogPost from './pages/BlogPost'
 function App() {
   return (
     <BrowserRouter>
+      <Loader />
       <div className="min-h-screen bg-white dark:bg-neutral-950 text-neutral-900 dark:text-neutral-100 transition-colors flex flex-col">
         <Nav />
         <main className="flex-1">
