@@ -4,14 +4,15 @@ An AI hallucination detector. Watches GPT's behaviour as it answers a question a
 
 ## What it does
 
-Sends a question to GPT and extracts three signals from the response:
+Sends a question to GPT five times and extracts four signals from the responses:
 
-- **Consistency** — asks the same question five times independently and checks whether the answers agree
-- **Token probabilities** — reads how confident the model was word by word using OpenAI logprobs
-- **Entropy** — measures how spread out the uncertainty was at each generation step
+- **Consistency** — checks whether the five answers agree with each other
+- **Token probability** — how confident the model was in the tokens it actually generated
+- **Entropy** — how spread out the uncertainty was at each generation step
+- **Trajectory** — whether confidence drops off as the response goes on
 
 A Random Forest classifier trained on these signals outputs a single score: how likely is this response to be hallucinated.
 
 ## Status
 
-Data pipeline is complete. I built the question banks across five domains +- 950 questions total. Collection script written with real OpenAI API call ready but it is still waiting on API key in September. Signal extraction, labelling, and feature building all working end to end with dummy data. Classifier next.
+Full pipeline built and tested end to end: collection, labelling, feature building, classifier training, and evaluation all run cleanly on synthetic dummy data (~3,400 questions across five domains — history, science, geography, math, fake citations). Real OpenAI API collection is wired up and ready, just waiting on the API key in September. Once real data comes in, the pipeline gets rerun and the classifier retrained from scratch — the numbers you'd see right now are from placeholder data, not real model behaviour.

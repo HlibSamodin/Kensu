@@ -2,8 +2,10 @@ import math
 
 
 def entropy_at_step(top_logprobs):
-    # logprobs for the top k alternatives at one generation step
-    # lower bound on true entropy we only see the top k not the full vocabulary it has
+    # logprobs for the top-k alternatives at one generation step
+    # note: this renormalises the top-k probabilities to sum to 1, so it's entropy
+    # over the TRUNCATED top-k distribution, not full-vocabulary entropy - we only
+    # ever see the top k candidates the api returns, never the full distribution
     probs = [math.exp(lp) for lp in top_logprobs]
     total = sum(probs)
     if total == 0:
@@ -13,23 +15,17 @@ def entropy_at_step(top_logprobs):
 
 
 def entropy_features(runs):
-    # list of lists basically which means top-k logprobs per token
-    # flat list means mydummy data real API returns nested
+    # top_logprobs is a list of lists: top-k alternatives per token step,
+    # same shape for both fake and real data now
 
     all_step_entropies = []
 
     for run in runs:
-        lp = run["logprobs"]
+        lp = run.get("top_logprobs")
         if not lp:
             continue
 
-        if isinstance(lp[0], list):
-            # real api (i have no api yet)
-            step_entropies = [entropy_at_step(step) for step in lp]
-        else:
-            # dummy data entropy is 0 until i get real api in september
-            step_entropies = [0.0 for _ in lp]
-
+        step_entropies = [entropy_at_step(step) for step in lp]
         all_step_entropies.extend(step_entropies)
 
     if not all_step_entropies:

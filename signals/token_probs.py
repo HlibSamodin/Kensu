@@ -11,20 +11,14 @@ def token_prob_features(runs):
     all_logprobs = []
 
     for run in runs:
-        lp = run["logprobs"]
+        # token_logprobs is the logprob of the token GPT actually generated at each
+        # step - always a flat list, one value per token, for both fake and real data
+        lp = run.get("token_logprobs")
         if not lp:
             continue
-
-        # real api / real dummy data is nested: list of top-k logprobs per token step
-        # take the top-1 (first) logprob per step, same convention as trajectory.py
-        if isinstance(lp[0], list):
-            flat = [token[0] for token in lp]
-        else:
-            flat = lp
-
-        per_run_means.append(sum(flat) / len(flat))
-        per_run_mins.append(min(flat))
-        all_logprobs.extend(flat)
+        per_run_means.append(sum(lp) / len(lp))
+        per_run_mins.append(min(lp))
+        all_logprobs.extend(lp)
 
     if not all_logprobs:
         return {

@@ -14,25 +14,29 @@ def load_questions(path):
 
 def fake_answer(question, answer=None):
     # placeholder until openai api key arrives in september
-    # not just random noise - roughly mimics real model behaviour so the pipeline
-    # produces a mixed correct/hallucinated dataset locally, instead of ~100% label=1
+    # produces the same two-part schema real_answer() does below:
+    #   token_logprobs -> confidence of the actual generated token (used for prob_mean/prob_min/trajectory)
+    #   top_logprobs   -> alternatives at each step (used only for entropy)
     # correct answers get tighter, more confident logprobs; wrong ones get noisier, less confident ones
     if answer is not None and random.random() < 0.7:
         response = f"The answer to '{question}' is {answer}."
-        logprobs = [
-            [round(random.uniform(-0.4, -0.05), 4)]
-            + [round(random.uniform(-3.0, -1.0), 4) for _ in range(4)]
-            for _ in range(10)
-        ]
+        token_logprobs = [round(random.uniform(-0.4, -0.05), 4) for _ in range(10)]
     else:
         filler = random.choice(["approximately", "possibly", "around", "roughly"])
         response = f"{filler} {random.randint(1, 9999)} based on general knowledge"
-        logprobs = [
-            [round(random.uniform(-2.5, -0.8), 4)]
-            + [round(random.uniform(-3.5, -1.5), 4) for _ in range(4)]
-            for _ in range(10)
-        ]
-    return {"response": response, "logprobs": logprobs}
+        token_logprobs = [round(random.uniform(-2.5, -0.8), 4) for _ in range(10)]
+
+    # the generated token is usually among the top alternatives, plus a few weaker ones
+    top_logprobs = [
+        [lp] + [round(lp - random.uniform(0.5, 2.5), 4) for _ in range(4)]
+        for lp in token_logprobs
+    ]
+
+    return {
+        "response": response,
+        "token_logprobs": token_logprobs,
+        "top_logprobs": top_logprobs,
+    }
 
 
 def real_answer(client, question):
@@ -46,12 +50,20 @@ def real_answer(client, question):
     )
 
     message = response.choices[0].message.content
-    token_logprobs = response.choices[0].logprobs.content
+    token_data = response.choices[0].logprobs.content
 
-    # extract top-k logprobs per token as list of lists
-    logprobs = [[t.logprob for t in token.top_logprobs] for token in token_logprobs]
+    # logprob of the token GPT actually generated at each step - this is what
+    # prob_mean/prob_min/prob_trajectory should measure, NOT the top-k alternatives
+    token_logprobs = [t.logprob for t in token_data]
 
-    return {"response": message, "logprobs": logprobs}
+    # top-k alternatives at each step, kept separately - only used for entropy
+    top_logprobs = [[alt.logprob for alt in t.top_logprobs] for t in token_data]
+
+    return {
+        "response": message,
+        "token_logprobs": token_logprobs,
+        "top_logprobs": top_logprobs,
+    }
 
 
 def collect(questions_file, output_file, runs=5, use_real_api=False, domain=None):
