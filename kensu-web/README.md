@@ -1,16 +1,36 @@
-# React + Vite
+# kensu-web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The website for [Kensu](https://github.com/HlibSamodin/Kensu) — an AI hallucination
+detector. This is a static React site that explains the project, walks through
+installing and running Kensu locally, and hosts a blog documenting how it's being built.
 
-Currently, two official plugins are available:
+There's no backend here and no hosted demo — Kensu runs entirely on your own
+machine with your own OpenAI API key, so this site is just the front door: an
+install guide and a blog, nothing more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Stack
 
-## React Compiler
+- React 19 + Vite
+- Tailwind CSS v4
+- React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Development
 
-## Expanding the ESLint configuration
+```bash
+npm install
+npm run dev       # local dev server with HMR
+npm run build     # production build
+npm run preview   # preview the production build locally
+npm run lint       # eslint
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Structure
+
+- `src/pages/Install.jsx` — step-by-step guide to cloning, installing, and running Kensu locally
+- `src/pages/Blog.jsx` / `BlogPost.jsx` — build log, added to as the project progresses
+- `src/data/posts.js` — blog post content lives here
+- `src/components/` — Nav, StepCard, VideoCard, CopyButton, Loader
+
+## License
+
+MIT — see the [main repo](https://github.com/HlibSamodin/Kensu) for details.
